@@ -63,3 +63,5 @@ if (!(tires[0] <= tires[1] && tires [2] <= tires[3])) {
 } else {
     console.log("Please check tire pressure");
 }
+
+//test

@@ -21,9 +21,9 @@ if (calGuitar==""){
 }
 
 if (calGuitar === "no"){
-    console.log("If you are not selling your Guitar, this calculator is of no use to you!");
+    console.log("If you are not selling your Guitar, then this site is no good to you!");
     } else if (calGuitar === "yes") {
-    console.log("Alright, lets calculate what your profits will be by selling your Guitar!");
+    console.log("SWEET!, Lets calculate what your profits will be by selling your Guitar(s)!");
     } else {
     console.log("The information that you entered is not valid, please try again.");
 }
