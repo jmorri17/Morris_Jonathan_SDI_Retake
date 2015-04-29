@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb5b4fa-747b-4308-8d66-f5defcfd727d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/Functions Assignment/js/script.js" afterPath="$PROJECT_DIR$/Functions/Functions Assignment/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Morris_Jonathan_SDI_Retake.iws" />
@@ -323,7 +322,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430309915021</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Functions Worksheet">
+      <created>1430309936939</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1430309936939</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
