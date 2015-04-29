@@ -81,3 +81,22 @@ if (foodProduct==="no") {
 } else if (foodProduct==="yes") {
  yesFood();
 }
+
+/*Testing results
+
+item amount = 600
+food item = no
+tax amount =  5
+
+console output
+ The amount in tax you will be paying is $30.
+ script.js:79 The total amount you will pay for this item is $630.
+
+item amount = 50
+ Food = yes
+
+console output
+ Food items will not be taxed.
+ The cost of your item is $50.
+
+ */
