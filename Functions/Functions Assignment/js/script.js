@@ -56,8 +56,8 @@ if (foodProduct === "no") {
 // Create function
 
  function taxTotal(origPrice, taxAmount, divide) {
-  var taxCash = (origPrice * taxAmount) / divide;
-  return taxCash;
+  return  (origPrice * taxAmount) / divide;
+
  }
 
 // Returned

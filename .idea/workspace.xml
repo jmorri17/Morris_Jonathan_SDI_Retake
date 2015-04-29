@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb5b4fa-747b-4308-8d66-f5defcfd727d" name="Default" comment="" />
+    <list default="true" id="1bb5b4fa-747b-4308-8d66-f5defcfd727d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/Functions Assignment/js/script.js" afterPath="$PROJECT_DIR$/Functions/Functions Assignment/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Morris_Jonathan_SDI_Retake.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions/Functions Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.37482318">
+              <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -33,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Morris_Jonathan_Functions_Assignment.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Morris_Jonathan_Functions_Assignment.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions/Functions Assignment/Morris_Jonathan_Functions_Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21961933">
+            <state vertical-scroll-proportion="-6.25">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
@@ -86,6 +89,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-5" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
@@ -342,7 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <frame x="-5" y="23" width="1440" height="827" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -587,21 +591,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Functions Assignment/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions/Functions Assignment/Morris_Jonathan_Functions_Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Functions Assignment/Morris_Jonathan_Functions_Assignment.html">
+    <entry file="file://$PROJECT_DIR$/Functions/Functions Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21961933">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="0.37482318">
+          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
