@@ -36,7 +36,7 @@ while (foodProduct!=="yes" && foodProduct!=="no" || foodProduct===""){
 
 foodProduct = foodProduct.toLowerCase();
 
-if (foodProduct==="no") {
+if (foodProduct === "no") {
 
 // Tax percentage variable.
  var taxAmount = prompt("Please enter the percentage of sales tax.");
@@ -69,18 +69,22 @@ if (foodProduct==="no") {
 // 2nd Function
 
  function price(taxCash, origPrice) {
-  var totalPrice = taxCash + origPrice;
+  var totalPrice;
+  totalPrice = taxCash + origPrice;
   return totalPrice;
  }
 
 // Calculated return
 
- var totalPrice = price(taxCash, origPrice);
+ var totalPrice;
+ totalPrice = price(taxCash, origPrice);
  console.log("The total amount you will pay for this item is $" + totalPrice + ".");
 
-} else if (foodProduct==="yes") {
+} else if (foodProduct === "yes") {
  yesFood();
 }
+
+
 
 /*Testing results
 
