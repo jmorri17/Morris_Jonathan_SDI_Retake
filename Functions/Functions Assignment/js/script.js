@@ -34,4 +34,22 @@ while (foodProduct!=="yes" && foodProduct!=="no" || foodProduct===""){
  }
 }
 
-}
+foodProduct = foodProduct.toLowerCase();
+
+if (foodProduct==="no") {
+
+// Tax percentage variable.
+ var taxAmount = prompt("Please enter the percentage of sales tax.");
+ taxAmount = parseInt(taxAmount);
+ var divide = 100;
+
+// Validate
+
+ while (isNaN(taxAmount) || taxAmount === "") {
+  if (isNaN(taxAmount)) {
+   taxAmount = prompt("Please only enter numbers.\nWhat is the percentage of sales tax?");
+  } else if (taxAmount === "") {
+   taxAmount = prompt("This field is required, please do not leave it blank.\nWhat is the original price of the product?");
+  }
+ }
+
